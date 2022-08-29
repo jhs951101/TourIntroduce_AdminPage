@@ -1,0 +1,9 @@
+Used Database: MariaDB
+
+Executed Queires: (모두 DB에서 실행할 것)
+
+create table MEMBER(
+	USERNAME varchar(20) primary key,
+	PASSWORD varchar(20),
+	NAME varchar(20)
+) default character set utf8 collate utf8_general_ci;

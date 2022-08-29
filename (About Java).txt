@@ -1,0 +1,4 @@
+Used Java Version: Java SE 8 (JDK 8u202 and earlier)
+  Download: https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html
+
+※ 필자의 경우, 운영체제는 MacOS 였고, 새로 설치한 JDK가 존재한 곳은 '/Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home' 이었음

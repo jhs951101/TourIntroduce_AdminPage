@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS Document */
+
+.label {
+	text-align: right;
+}
+
+.input {
+	text-align: left;
+}
+
+.button {
+	text-align: center;
+}
+
+#container {
+	height: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+#inner-container {
+	padding: 5px;
+}
